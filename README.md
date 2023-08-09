@@ -8,13 +8,10 @@ everything under the hood and no opinionated set up
 
 I will base all my tutorials on this Starter Kit.
 
-# Who Am I?
 
-![arthurbernierjr.com](http://progressandfortune.com/smac_images/profile.jpg)
 
-I am Arthur Bernier Jr. I work as freelance fullstack web developer and attraction marketing consultant specializing in supporting e-commerce brands,
-subscription box sites, social activists, religious/non-profit leaders and creative entrepreneurs(i.e. barbers, artists, musicians, stylists, models and photographers).
-I have a passion for helping entrepreneurs reach their perfect audience and helping you communicate to that audience in a way that makes them know, like and trust you. I also am a Full-Time Instructor at General Assembly as well as a Software Engineer at Blavity Inc.
+
+
 
 
 # My Favorite Online Instructors
